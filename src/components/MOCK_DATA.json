@@ -1,0 +1,10 @@
+[{"id":1, "firstname":"Michael", "lastname":"O'Connor", "email":"michael.j.oconnor@me.com", "superpower": "patterning", "phonenumber":6047656061},
+{"id":2, "firstname":"Michaeleen", "lastname":"O'Connor", "email":"michaeleen.s.oconnor@me.com", "superpower": "cooking", "phonenumber":6047656061},
+{"id":3, "firstname":"Brody", "lastname":"O'Connor", "email":"brody.f.oconnor@gmail.com", "superpower": "delaying", "phonenumber":6047656061},
+{"id":4, "firstname":"Murphy", "lastname":"O'Connor", "email":"murphy1oconnor@gmail.com", "superpower": "canoeing", "phonenumber":6047656061},
+{"id":5, "firstname":"Reilly", "lastname":"O'Connor", "email":"reillyoc93@me.com", "superpower": "skating", "phonenumber":6047656061},
+{"id":6, "firstname":"Angel", "lastname":"Atomate-O'Connor", "email":"angel@me.com", "superpower": "directing", "phonenumber":6047656061},
+{"id":7, "firstname":"Declan", "lastname":"O'Connor", "email":"declan@future.com", "superpower": "burping", "phonenumber":6047656061}
+]
+
+
