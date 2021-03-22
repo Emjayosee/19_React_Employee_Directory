@@ -97,11 +97,9 @@ The following lessons learned:
 
 The following items should be considered for future enhancements, time and budget permitting:
 
-    1. Add an ability to sort data columns.
+    1. Ability to filter employee data (see example here https://codesandbox.io/s/github/tannerlinsley/react-table/tree/master/examples/filtering?file=/src/App.js:1387-1759)
 
-    2. Ability to filter employee data.
-
-    3. Ability to create emails for phonecalls from the table data.
+    2. Ability to launch emails for phonecalls from the table data.
 
 # 06 Current Renderings:
 
