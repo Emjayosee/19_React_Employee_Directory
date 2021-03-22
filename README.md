@@ -5,14 +5,14 @@ This is the repo for the Employee Directory assignment 19, due March 19, 2021.
 
 # Unit 19 REACT Homework: Employee Directory
 
-Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
+Submitted: March 22, 2021, Michael O'Connor, 604 765-6061
 
 # 01 Goal: 
 
     The goal of this project is to create an employee directory with React. This assignment
     requires us to break up our application's UI into components, manage component state, 
-    and respond to user events.  Here is a link to the Github folder https://github.com/Emjayosee/19_React_Employee_Directory
-    and a link to the deployed website https://emjayosee.github.io/19_React_Employee_Directory/.
+    and respond to user events.  Here is a link to the Github folder https://emjayosee.github.io/19_React_Employee_Directory/
+    and a link to the deployed website https:employeee-directory-michael.herokuapp.com.
 
 # 02 Approach:
 
@@ -41,7 +41,7 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
                 [X] Table header allow for sorting the data, if the user touches the header bar.
 
-                [ ] User is advised to click the NAV BAR or top table row to:
+                [X] User is advised to click the NAV BAR or top table row to:
 
                    - Sort the table by at least one category
 
