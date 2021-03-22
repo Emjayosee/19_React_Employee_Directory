@@ -16,8 +16,8 @@ export const COLUMNS = [
         accessor: "address"
     },
     {
-        Header: "Birthday",
-        accessor: "birthday"
+        Header: "Start Date",
+        accessor: "startdate"
     },
     {
         Header: "Bi-weekly Pay",
