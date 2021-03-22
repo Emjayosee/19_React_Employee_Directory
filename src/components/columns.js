@@ -1,26 +1,26 @@
 export const COLUMNS = [
     {
-        Header: "Id",
-        accessor: "id"
-    },
-    {
         Header: "First Name",
-        accessor: "firstname"
+        accessor: "first"
     },
     {
         Header: "Last Name",
-        accessor: "lastname"
+        accessor: "last"
     },
     {
         Header: "Email",
-        accessor: "email"
+        accessor: "altemail"
     },
     {
-        Header: "Superpower",
-        accessor: "superpower"
+        Header: "Address",
+        accessor: "address"
     },
     {
-        Header: "Phone Number",
-        accessor: "phonenumber"
+        Header: "Birthday",
+        accessor: "birthday"
+    },
+    {
+        Header: "Bi-weekly Pay",
+        accessor: "netpay"
     }
 ]
