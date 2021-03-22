@@ -5,6 +5,12 @@ import MOCK_DATA from "./MOCK_DATA.json"
 import {COLUMNS} from "./columns.js"
 import "./table.css"
 
+
+
+/* <H1>Employee Contact Directory (Click Header to sort by Column)</H1> */
+
+
+
 export const BasicTable = () => {
 
     const columns = useMemo(() => COLUMNS, [])
