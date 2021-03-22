@@ -28,16 +28,18 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
             [X]	 Establish a basic table.
 
-            [ ]  Create a JSON file of at least 100 employees with randomized data.
+            [X]  Create a JSON file of at least 100 employees with randomized data.
 
-            [ ] Enable an ability to search or sort the data by the user.
+            [X] Enable an ability to search or sort the data by the user.
 
             [ ] It would be particularly helpful to be able to filter employees by name.
         
             
             Here is the basic logic flow :
 
-                [ ] On load, display a navbar and the table of employee data. 
+                [X] On load, display a navbar and the table of employee data. 
+
+                [X] Table header allow for sorting the data, if the user touches the header bar.
 
                 [ ] User is advised to click the NAV BAR or top table row to:
 
@@ -48,7 +50,7 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
             Build:
 
-            •	Set up a REACT environment fof the files and create some files to enable the file to render [ ]
+            •	Set up a REACT environment fof the files and create some files to enable the file to render [X]
             
             JS: Based on my readings and the class and youtibe video I watched:
             
@@ -60,7 +62,7 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
                 6. Include CSS formatting from W3Schools. [x]
 
             CSS:
-                >Add a stylish background image and styling if time permits [x]
+                >Add a stylish background image and styling if time permits [ ]
             
 
 # 03 Testing and Quality Control:
