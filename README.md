@@ -22,7 +22,7 @@ Submitted: March 22, 2021, Michael O'Connor, 604 765-6061
 
             Goal:
 
-            Create an employee directory and create a US that involves some USER events. 
+            Create an employee directory and create a UI that involves some USER events. 
 
             Design:
 
