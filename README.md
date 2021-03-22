@@ -12,7 +12,7 @@ Submitted: March 22, 2021, Michael O'Connor, 604 765-6061
     The goal of this project is to create an employee directory with React. This assignment
     requires us to break up our application's UI into components, manage component state, 
     and respond to user events.  Here is a link to the Github folder https://emjayosee.github.io/19_React_Employee_Directory/
-    and a link to the deployed website https:employeee-directory-michael.herokuapp.com.
+    and a link to the deployed website https://employee-directory-michael.herokuapp.com/.
 
 # 02 Approach:
 
