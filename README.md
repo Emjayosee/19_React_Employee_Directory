@@ -16,7 +16,7 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
 # 02 Approach:
 
-    In approaching this project, I begam by attempting to convert one of the apps from the assignment from a serach for animals to a search for people (from Pupster).  But then I was not getting the flow and I needed to build a table.  So I examined a number of articles and a youtube video on REACT tables.  I followed this video to get tha basic table app to compile with a JSON file that I manually created based on family member data.  My next idea was to then create a mock data set from the recommended website and update the JSON file accordingly with mock data.  Once there I plan to adjust the look and feel of the app with a nav bar and some functionality, but time is of the essence and I must submit something once I have extracted enough learnings.
+    In approaching this project, I began by attempting to convert one of the apps from the assignment from a serach for animals to a search for people (from Pupster).  But then I was not getting the flow and I needed to build a table.  So I examined a number of articles and a youtube video on REACT tables.  I followed this video to get tha basic table app to compile with a JSON file that I manually created based on family member data.  My next idea was to then create a mock data set from the recommended website and update the JSON file accordingly with mock data.  Once there I plan to adjust the look and feel of the app with a nav bar and some functionality, but time is of the essence and I must submit something once I have extracted enough learnings.
 
     I followed the following plan design:
 
@@ -31,17 +31,23 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
             [ ]  Create a JSON file of at least 100 employees with randomized data.
 
             [ ] Enable an ability to search or sort the data by the user.
+
+            [ ] It would be particularly helpful to be able to filter employees by name.
         
             
             Here is the basic logic flow :
 
                 [ ] On load, display a navbar and the table of employee data. 
 
-                [ ] User is advised to click the NAV BAR to do something.
+                [ ] User is advised to click the NAV BAR or top table row to:
 
-        
+                   - Sort the table by at least one category
+
+                   - Filter the users by at least one property.
+
 
             Build:
+
             •	Set up a REACT environment fof the files and create some files to enable the file to render [ ]
             
             JS: Based on my readings and the class and youtibe video I watched:
@@ -56,7 +62,6 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
             CSS:
                 >Add a stylish background image and styling if time permits [x]
             
-
 
 # 03 Testing and Quality Control:
 
@@ -79,15 +84,24 @@ The following lessons learned:
 
     3. Debugguing code.
 
+    4. That there is a lot of power and development in the REACT library.
+
+    5. How to deploy a site to GitHub Pages using the [Create React App docs for deployment.]
+    (https://create-react-app.dev/docs/deployment/#github-pages).
+
 # 05 Further improvements to make:
 
 The following items should be considered for future enhancements, time and budget permitting:
 
     1. Add an ability to sort data columns.
 
+    2. Ability to filter employee data.
+
+    3. Ability to create emails for phonecalls from the table data.
+
 # 06 Current Renderings:
 
-See Current Rendering at the time of writing in the Assignment05 Repo. 
+See Current Rendering at the time of writing in the Assignment19 Repo. 
 ![alt text](TBD)
 
 
