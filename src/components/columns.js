@@ -18,9 +18,5 @@ export const COLUMNS = [
     {
         Header: "Start Date",
         accessor: "startdate"
-    },
-    {
-        Header: "Bi-weekly Pay",
-        accessor: "netpay"
     }
 ]

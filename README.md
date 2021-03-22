@@ -9,7 +9,7 @@ Submitted: March xx, 2021, Michael O'Connor, 604 765-6061
 
 # 01 Goal: 
 
-    The Goal of this project is to create a employee directory with React. This assignment
+    The goal of this project is to create an employee directory with React. This assignment
     requires us to break up our application's UI into components, manage component state, 
     and respond to user events.  Here is a link to the Github folder https://github.com/Emjayosee/19_React_Employee_Directory
     and a link to the deployed website https://emjayosee.github.io/19_React_Employee_Directory/.
@@ -89,6 +89,10 @@ The following lessons learned:
     5. How to deploy a site to GitHub Pages using the [Create React App docs for deployment.]
     (https://create-react-app.dev/docs/deployment/#github-pages).
 
+    6. There are good instructions on table in react here https://react-table.tanstack.com/docs/quick-start.
+
+    7. Another good example of sorting is from 6 link  useSortBy.
+
 # 05 Further improvements to make:
 
 The following items should be considered for future enhancements, time and budget permitting:
@@ -102,7 +106,7 @@ The following items should be considered for future enhancements, time and budge
 # 06 Current Renderings:
 
 See Current Rendering at the time of writing in the Assignment19 Repo. 
-![alt text](TBD)
+![alt text](public/renderImage.png)
 
 
 
